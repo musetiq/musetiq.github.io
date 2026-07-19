@@ -80,7 +80,7 @@
         },
         scale: 1,
         type: "inline",
-        url: "./me.svg"
+        url: "./me2.svg"
       },
       background: {
         color: "#000000",
