@@ -80,7 +80,7 @@
         },
         scale: 1,
         type: "inline",
-        url: "./smalldeer.svg"
+        url: "./me_path.svg"
       },
       background: {
         color: "#000000",
