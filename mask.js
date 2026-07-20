@@ -80,7 +80,7 @@
         },
         scale: 1,
         type: "inline",
-        url: "./me-worked.svg"
+        url: "./assets/Face-1.svg"
       },
       background: {
         color: "#000000",
