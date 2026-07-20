@@ -80,7 +80,7 @@
         },
         scale: 1,
         type: "inline",
-        url: "./me3.svg"
+        url: "./brain.svg"
       },
       background: {
         color: "#000000",
