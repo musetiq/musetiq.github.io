@@ -72,8 +72,8 @@
           radius: 5
         },
         position: {
-          x: 50,
-          y: 50
+          x: 70,
+          y: 70
         },
         inline: {
           arrangement: "equidistant"
