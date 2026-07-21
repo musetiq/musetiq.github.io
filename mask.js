@@ -19,7 +19,7 @@
             duration: 2,
             opacity: 8,
             size: 6,
-            speed: 3
+            speed: 2
           }
         }
       },
@@ -41,7 +41,7 @@
           speed: 1
         },
         number: {
-          value: 200
+          value: 500
         },
         opacity: {
           animation: {
