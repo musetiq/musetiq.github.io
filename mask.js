@@ -80,7 +80,7 @@
         },
         scale: 1,
         type: "inline",
-        url: "./assets/Face-1.svg"
+        url: "./assets/Brain-1.svg"
       },
       background: {
         color: "#000000",
