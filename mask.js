@@ -73,7 +73,7 @@
         },
         position: {
           x: 50,
-          y: 70
+          y: 60
         },
         inline: {
           arrangement: "equidistant"
