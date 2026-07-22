@@ -17,7 +17,7 @@
           bubble: {
             distance: 40,
             duration: 2,
-            opacity: 8,
+            opacity: 0.8,
             size: 6,
             speed: 2
           }
