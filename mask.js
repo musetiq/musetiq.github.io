@@ -41,7 +41,7 @@
           speed: 1
         },
         number: {
-          value: 100
+          value: 300
         },
         opacity: {
           animation: {
@@ -72,8 +72,8 @@
           radius: 5
         },
         position: {
-          x: 70,
-          y: 70
+          x: 50,
+          y: 50
         },
         inline: {
           arrangement: "equidistant"
