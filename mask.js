@@ -41,7 +41,7 @@
           speed: 1
         },
         number: {
-          value: 500
+          value: 100
         },
         opacity: {
           animation: {
@@ -65,7 +65,7 @@
             color: "#fff",
             opacity: 0.2,
             width: 1
-          }
+          } 
         },
         enable: true,
         move: {
@@ -92,3 +92,6 @@
     }
   });
 })();
+
+
+
